@@ -13,3 +13,5 @@ To reproduce the development environment locally, follow these steps:
    ```bash
    git clone [https://github.com/hawi22/climate-challenge-week0..git](https://github.com/hawi22/climate-challenge-week0..git) climate-challenge-week0
    cd climate-challenge-week0
+ 
+# Setup Complete 
